@@ -1,0 +1,438 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\playerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\playertracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playertracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\abilitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\abilitydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\cardanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cardanimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\enemy\\enemyhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyhealthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercombat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\mapinfoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapinfoui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\enemy\\tankenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\tankenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\enemy\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\arrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\enemy\\rangedenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\rangedenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\enemy\\meleeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\meleeenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\enemy\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy\\enemybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerinteraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\lootmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lootmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\lootitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\lootitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\abilityselectionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\abilityselectionui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Library\\PackageCache\\com.unity.render-pipelines.core@6a60abc179f8\\Runtime\\Debugging\\DebugUpdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.core@6a60abc179f8\\Runtime\\Debugging\\DebugUpdater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\linearregression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\linearregression.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\buildconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|c:\\users\\jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\assets\\scripts\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CD19DA-EE08-5225-FB19-1D0DFA4113DD}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mapgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CardAnimator.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\CardAnimator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CardAnimator.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\CardAnimator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CardAnimator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T20:18:15.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyHealthBar.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\enemy\\EnemyHealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\EnemyHealthBar.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\enemy\\EnemyHealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\EnemyHealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T10:10:41.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HPBar.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\HPBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HPBar.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\HPBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HPBar.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAA3wBYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T19:19:47.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerCombat.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\PlayerCombat.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCombat.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\PlayerCombat.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCombat.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAIAwwJAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T19:18:25.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapInfoUI.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\MapInfoUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapInfoUI.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\MapInfoUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapInfoUI.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T16:52:11.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\enemy\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\EnemySpawner.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\enemy\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\EnemySpawner.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAUwGYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T11:11:36.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TankEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\enemy\\TankEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\TankEnemy.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\enemy\\TankEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\TankEnemy.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T11:10:51.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RangedEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\enemy\\RangedEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\RangedEnemy.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\enemy\\RangedEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\RangedEnemy.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T11:07:48.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeleeEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\enemy\\MeleeEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\MeleeEnemy.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\enemy\\MeleeEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\MeleeEnemy.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA0wDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T11:07:01.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EnemyBase.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\enemy\\EnemyBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\EnemyBase.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\enemy\\EnemyBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\EnemyBase.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAowGgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T11:06:06.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlayerInteraction.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\PlayerInteraction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerInteraction.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\PlayerInteraction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerInteraction.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:33:46.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LootManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\LootManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LootManager.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\LootManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LootManager.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAD4v5cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:32:48.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LootItem.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\LootItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LootItem.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\LootItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LootItem.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAA/wI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T08:31:56.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AbilitySelectionUI.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\AbilitySelectionUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AbilitySelectionUI.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\AbilitySelectionUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AbilitySelectionUI.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAewF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:45:22.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Arrow.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\enemy\\Arrow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\enemy\\Arrow.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\enemy\\Arrow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\enemy\\Arrow.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswDkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T11:09:49.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAIwMYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T06:44:11.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DebugUpdater.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Library\\PackageCache\\com.unity.render-pipelines.core@6a60abc179f8\\Runtime\\Debugging\\DebugUpdater.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.core@6a60abc179f8\\Runtime\\Debugging\\DebugUpdater.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Library\\PackageCache\\com.unity.render-pipelines.core@6a60abc179f8\\Runtime\\Debugging\\DebugUpdater.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.core@6a60abc179f8\\Runtime\\Debugging\\DebugUpdater.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAIwLoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T05:42:40.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CameraFollow.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\CameraFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T08:02:27.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:56:56.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PlayerMoveMent.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\PlayerMoveMent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMoveMent.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\PlayerMoveMent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMoveMent.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T07:55:44.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LinearRegression.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\LinearRegression.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LinearRegression.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\LinearRegression.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LinearRegression.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAuwJUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T20:57:12.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BuildConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\BuildConfig.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildConfig.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\BuildConfig.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:28:04.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MapGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\MapGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MapGenerator.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\MapGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MapGenerator.cs",
+              "ViewState": "AgIAAMMBAAAAAAAAAAAAAOQBAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T09:20:44.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerTracker.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\PlayerTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerTracker.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\PlayerTracker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerTracker.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAAANAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:23:58.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\PlayerProfile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerProfile.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\PlayerProfile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerProfile.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwEoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:25:31.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AbilityData.cs",
+              "DocumentMoniker": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\AbilityData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AbilityData.cs",
+              "ToolTip": "C:\\Users\\Jedel\\\u043A\u0443\u0440\u0441\u0430\u0447\\Assets\\Scripts\\AbilityData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AbilityData.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-23T13:25:15.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

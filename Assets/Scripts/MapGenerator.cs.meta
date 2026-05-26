@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 46f6256fc0693c7428a42fa518194e35
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tilemap: {instanceID: 0}
+  - wallSprite: {fileID: -5697566233098705968, guid: bb743834f9a53e246b5bb78a54561721, type: 3}
+  - floorSprite: {fileID: 2216962988415778236, guid: f7ec964a656147d4d8d46580e5a70165, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
